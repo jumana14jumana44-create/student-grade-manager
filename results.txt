@@ -1,0 +1,3 @@
+Amat | Age: 15 | Grade: 76.5 | ✅ Passed!
+Amar | Age: 14 | Grade: 80.0 | ✅ Passed!
+Chada | Age: 12 | Grade: 40.0 | ❌ Failed!
